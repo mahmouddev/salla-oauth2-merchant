@@ -1,5 +1,5 @@
 {
-    "name": "salla/ouath2-merchant",
+    "name": "mahmouddev/ouath2-merchant",
     "description": "Salla OAuth 2.0 Client Provider for The PHP League OAuth2-Client",
     "keywords": [
         "oauth",
